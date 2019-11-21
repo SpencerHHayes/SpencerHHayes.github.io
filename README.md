@@ -1,2 +1,2 @@
 # SpencerHHayes.me
-Source code for my website. Not much else to say...
+Source code for my website.
